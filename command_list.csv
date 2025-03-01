@@ -1,0 +1,46 @@
+    1  git config --global user.name onursari10
+    2  git config --global user.email onursari10@hotmail.com
+    3  gi init
+    4  git init
+    5  git add Test.txt
+    6  git add Test.txt
+    7  git commit -m "First commit"
+    8  git remote add origin https://github.com/onursari10/HW_10.git
+    9  git psuh -u origin master
+   10  git push -u origin master
+   11  git push -u origin master
+   12  git checkout main
+   13  checkout main
+   14  git branch
+   15  git clone https://github.com/onursari10/HW_10.git
+   16  cd HW_10
+   17  git add text_ignore.txt
+   18  touch text_ignore.txt
+   19  git status
+   20  git status
+   21  git add.
+   22  git add .
+   23  git status
+   24  git push -u origin master
+   25  git push -u origin main
+   26  git commit -m "gitignore dosyası düzenlendi"
+   27  git push -u origin main
+   28  mkdir main_test.txt
+   29  touch main_test.txt
+   30  git add .
+   31  git commi -m "main_test.txt gönderimi"
+   32  git commit -m "main_test.txt gönderimi"
+   33  git branch develop
+   34  git branch
+   35  git checkout develop
+   36  touch develop_test.txt
+   37  git add .
+   38  git commit -m "develop bracn ve txt"
+   39  git status
+   40  git add .
+   41  git commit -m "develop txt update"
+   42  git checkout main
+   43  git merge develop
+   44  git log
+   45  git bash history > command_list.csv
+   46  history > command_list.csv
